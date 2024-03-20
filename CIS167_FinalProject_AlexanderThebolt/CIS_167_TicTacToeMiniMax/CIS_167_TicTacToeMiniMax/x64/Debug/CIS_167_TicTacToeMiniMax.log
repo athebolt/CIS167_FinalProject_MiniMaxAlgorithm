@@ -1,9 +1,1 @@
-﻿  AI.cpp
-  Board.cpp
-  Cell.cpp
-  CIS_167_TicTacToeMiniMax.cpp
-  GameDriver.cpp
-  Generating Code...
-C:\Users\lean1\Documents\CIS Projects\CIS167\CIS167_FinalProject_AlexanderThebolt\CIS_167_TicTacToeMiniMax\CIS_167_TicTacToeMiniMax\GameDriver.cpp(373): warning C4715: 'GameDriver::checkWin': not all control paths return a value
-C:\Users\lean1\Documents\CIS Projects\CIS167\CIS167_FinalProject_AlexanderThebolt\CIS_167_TicTacToeMiniMax\CIS_167_TicTacToeMiniMax\AI.cpp(361): warning C4715: 'AI::whoWon': not all control paths return a value
-  CIS_167_TicTacToeMiniMax.vcxproj -> C:\Users\lean1\Documents\CIS Projects\CIS167\CIS167_FinalProject_AlexanderThebolt\CIS_167_TicTacToeMiniMax\x64\Debug\CIS_167_TicTacToeMiniMax.exe
+﻿  CIS_167_TicTacToeMiniMax.vcxproj -> C:\Users\Owner\Documents\CIS Projects\CIS167\CIS167_FinalProject_MiniMaxAlgorithm\CIS167_FinalProject_AlexanderThebolt\CIS_167_TicTacToeMiniMax\x64\Debug\CIS_167_TicTacToeMiniMax.exe
